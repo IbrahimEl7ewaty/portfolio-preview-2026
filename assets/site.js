@@ -38,3 +38,5 @@ const reduceMotion=matchMedia('(prefers-reduced-motion: reduce)');if(!reduceMoti
   }
  });
 })();
+
+(()=>{const state=window.PORTFOLIO_STATUS==='employed'?'employed':'open';document.querySelectorAll('[data-availability]').forEach(b=>{b.textContent=state==='employed'?'Currently employed':'Open to work';b.dataset.state=state})})();
