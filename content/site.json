@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "meta": {
-    "title": "QA Preview • Portfolio App",
+    "title": "Ibrahim El-Hewaty | IT Operations & Infrastructure",
     "description": "Ibrahim El-Hewaty, IT Operations Supervisor. Hospitality IT, network infrastructure, Windows systems and guest Wi-Fi."
   },
   "sectionOrder": [
@@ -960,21 +960,6 @@
           "paragraph": "ITIDA & TIEC",
           "label": "↗",
           "_template": "4"
-        },
-        {
-          "id": "item-9b838c46abf96038e70496441f123f50",
-          "enabled": true,
-          "image": {
-            "src": "content/images/d19b1867477665bcbc924bdecd9a0508.png",
-            "alt": "NTI mobile app development certificate",
-            "srcset": "",
-            "sizes": ""
-          },
-          "link": "content/images/d19b1867477665bcbc924bdecd9a0508.png",
-          "title": "QA APP TEST • temporary",
-          "paragraph": "National Telecommunication Institute (NTI) · 2025",
-          "label": "↗",
-          "_template": "0"
         }
       ],
       "eyebrow": "06 / LEARNING",
